@@ -11,7 +11,7 @@ Here are some images of the project:
 
 ![alt text](https://raw.githubusercontent.com/RaFaTEOLI/vue-js-crud/master/project-imgs/responsive.png)
 
-![alt text](https://raw.githubusercontent.com/RaFaTEOLI/vue-js-crud/master/project-imgs/show_admin.png)
+![alt text](https://raw.githubusercontent.com/RaFaTEOLI/vue-js-crud/master/project-imgs/admin_show.png)
 
 ![alt text](https://raw.githubusercontent.com/RaFaTEOLI/vue-js-crud/master/project-imgs/all_articles.png)
 
